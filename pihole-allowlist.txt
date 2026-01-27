@@ -1,1 +1,2 @@
-@@||prod-a-service.aptx.cm^
+@@||prod-a-service.aptx.cm^a
+@@||diabetes.shop^a
