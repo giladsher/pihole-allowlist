@@ -1,3 +1,2 @@
 @@||prod-a-service.aptx.cm^
 @@||diabetes.shop^
-@@||e.customeriomail.com^
